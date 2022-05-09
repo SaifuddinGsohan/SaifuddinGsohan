@@ -7,6 +7,10 @@
 
 # <a href="https://saifuddingsohan.github.io/me/">S. M. SOHAN 😀</a>
 
+<p align='center'>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I%27m+S.+M.+SOHAN;Software+Developer;%40SaifuddinGsohan">
+</p>
+
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Druhulaminparvez&suffix=%20Followers)](https://twitter.com/SaifuddinTsohan)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/saifuddin-sohan)
 [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/saifuddin_sohan/)
@@ -67,13 +71,22 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaifuddinGsohan&show_icons=true&locale=en&layout=compact" alt="SaifuddinGsohan" /></p>
 </div>
 
-<div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaifuddinGsohan&show_icons=true&locale=en" alt="SaifuddinGsohan" /></p>
-</div>
+## 📊 My Github Stats
 
-<div align="center"> 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaifuddinGsohan&" alt="SaifuddinGsohan" /></p>
-</div>
+  <br/>
+    <a href="https://github.com/SaifuddinGsohan/github-readme-stats"><img alt="S. M. Sohan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaifuddinGsohan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<!--   <a href="https://github.com/misbahuddinmuib/github-readme-stats"><img alt="Misbah Uddin Muib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahuddinmuib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+  <br/>
+  <br/>
+  <a href="https://github.com/SaifuddinGsohan/github-readme-activity-graph"><img alt="S. M. Sohan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SaifuddinGsohan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+
+<p align="center">
+    <a href="https://github.com/SaifuddinGsohan/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="S. M. Sohan's streak" src="https://github-readme-streak-stats.herokuapp.com?user=SaifuddinGsohan&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 
 
