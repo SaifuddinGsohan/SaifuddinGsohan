@@ -11,7 +11,7 @@
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Druhulaminparvez&suffix=%20Followers)](https://twitter.com/SaifuddinTsohan)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/saifuddin-sohan)
 [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/saifuddin_sohan/)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sohan15-10446@diu.edu.bd?subject=From%20GitHub&cc=sm.sohan586@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sm.sohan586@gmail.com?subject=From%20GitHub&cc=sm.sohan586@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
 Hi there 👋, I'm S. M. Sohan, a student of computer science in Daffodil International University. 👨‍🎓
 Enthusiastic about tech and learning new things. Take a peek at the projects I have done. I enjoy coding and contributing to open source projects, as well as answering questions in forums and helping people with code. 😊
