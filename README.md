@@ -11,8 +11,6 @@
   </p>
 </a>
 
-
-
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Druhulaminparvez&suffix=%20Followers)](https://twitter.com/SaifuddinTsohan)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/saifuddin-sohan)
 [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/saifuddin_sohan/)
@@ -82,7 +80,7 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23327FC7.svg?logo=github&logoColor=white"></a>
 
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaifuddinGsohan&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=0000&background=060A0CD0" alt="SaifuddinGsohan" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaifuddinGsohan&show_icons=true&locale=en&layout=compact&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="SaifuddinGsohan" /></p>
 </div>
 
 ## 📊 My Github Stats
