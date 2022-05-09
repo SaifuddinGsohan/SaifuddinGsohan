@@ -77,7 +77,7 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23327FC7.svg?logo=github&logoColor=white"></a>
 
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaifuddinGsohan&show_icons=true&locale=en&layout=compact&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="SaifuddinGsohan" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaifuddinGsohan&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="SaifuddinGsohan" /></p>
 </div>
 
 ## 📊 My Github Stats
