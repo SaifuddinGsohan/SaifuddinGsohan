@@ -99,9 +99,9 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 
 ## Top Respositorys:
   <p align="left">
-     <a href="https://github.com/SaifuddinGsohan/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaifuddinGsohan&repo=vprofile-project&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/SaifuddinGsohan/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaifuddinGsohan&repo=typescript-express-mysql-boilerplate&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/SaifuddinGsohan/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaifuddinGsohan&repo=improve-english-project&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+     <a href="https://github.com/SaifuddinGsohan/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaifuddinGsohan&repo=vprofile-project&theme=react&bg_color=0D1117&title_color=5BCDEC&hide_border=true&icon_color=5BCDEC&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/SaifuddinGsohan/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaifuddinGsohan&repo=typescript-express-mysql-boilerplate&theme=react&bg_color=0D1117&title_color=5BCDEC&hide_border=true&icon_color=5BCDEC&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/SaifuddinGsohan/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaifuddinGsohan&repo=improve-english-project&theme=react&bg_color=0D1117&title_color=5BCDEC&hide_border=true&icon_color=5BCDEC&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
 
 
