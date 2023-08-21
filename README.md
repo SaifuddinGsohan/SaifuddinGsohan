@@ -95,7 +95,7 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 
 <p align="center">
   <a href="https://github.com/SaifuddinGsohan">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SaifuddinGsohan&theme=react&hide_border=true&stroke=F8D866"/>
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SaifuddinGsohan&theme=react&hide_border=true&stroke=F8D866&bg_color=0D1117&color=F8D866"/>
 </a> 
 </p>
 
