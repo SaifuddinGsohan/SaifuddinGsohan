@@ -5,7 +5,7 @@
 <a href="https://saifuddingsohan.github.io/me/"><img width="255" align="right" src="https://github.com/SaifuddinGsohan/S.-M.-Sohan/blob/main/gif/web4.gif"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SaifuddinGsohan&label=Profile%20views&color=0e75b6&style=flat" alt="SaifuddinGsohan" /> </p>
 
-# <a href="https://saifuddingsohan.github.io/me/"><p align='center'><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I%27m+S.+M.+SOHAN;Software+Developer;%40SaifuddinGsohan"></p></a>
+# <a href="https://saifuddingsohan.github.io/me/"><p align='center'><img src="https://readme-typing-svg.herokuapp.com?color=fff53a&size=25&center=true&vCenter=true&width=433&height=75&lines=I%27m+S.+M.+SOHAN;Software+Developer;%40SaifuddinGsohan"></p></a>
 
 
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Druhulaminparvez&suffix=%20Followers)](https://twitter.com/SaifuddinTsohan)
@@ -22,7 +22,7 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love singing!
 
-## My-Stack...💻
+## My-Stack 💻
 
 #### 🔥 Languages: 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
@@ -77,17 +77,20 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23327FC7.svg?logo=github&logoColor=white"></a>
 
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaifuddinGsohan&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="SaifuddinGsohan" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaifuddinGsohan&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide_border=true&bg_color=0D1117" alt="SaifuddinGsohan" /></p>
 </div>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/SaifuddinGsohan/github-readme-stats"><img alt="S. M. Sohan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaifuddinGsohan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<!--   <a href="https://github.com/misbahuddinmuib/github-readme-stats"><img alt="Misbah Uddin Muib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahuddinmuib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+  <p align="center">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=SaifuddinGsohan&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+  </p>
+  <!--   <a href="https://github.com/SaifuddinGsohan/"><img alt="S. M. Sohan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaifuddinGsohan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+  <a href="https://github.com/misbahuddinmuib/github-readme-stats"><img alt="Misbah Uddin Muib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahuddinmuib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
   <br/>
-  <a href="https://github.com/SaifuddinGsohan"><img alt="S. M. Sohan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SaifuddinGsohan&bg_color=0D1117&color=F8D866&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+ <!--  <a href="https://github.com/SaifuddinGsohan"><img alt="S. M. Sohan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SaifuddinGsohan&bg_color=0D1117&color=F8D866&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 
