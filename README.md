@@ -95,15 +95,15 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 
 <p align="center">
   <a href="https://github.com/SaifuddinGsohan">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SaifuddinGsohan&theme=react&hide_border=true&stroke=F8D866&bg_color=0D1117&color=F8D866"/>
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SaifuddinGsohan&theme=dark&hide_border=true&stroke=F8D866&bg_color=0D1117&color=F8D866"/>
 </a> 
 </p>
 
 ## Top Respositorys
   <p align="left">
-     <a href="https://github.com/SaifuddinGsohan/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaifuddinGsohan&repo=vprofile-project&theme=react&bg_color=0D1117&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/SaifuddinGsohan/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaifuddinGsohan&repo=typescript-express-mysql-boilerplate&theme=react&bg_color=0D1117&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/SaifuddinGsohan/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaifuddinGsohan&repo=improve-english-project&theme=react&bg_color=0D1117&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+     <a href="https://github.com/SaifuddinGsohan/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaifuddinGsohan&repo=vprofile-project&theme=dark&bg_color=0D1117&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/SaifuddinGsohan/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaifuddinGsohan&repo=typescript-express-mysql-boilerplate&theme=dark&bg_color=0D1117&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/SaifuddinGsohan/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaifuddinGsohan&repo=improve-english-project&theme=dark&bg_color=0D1117&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
 
 
