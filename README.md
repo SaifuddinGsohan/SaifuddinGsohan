@@ -91,13 +91,15 @@ Enthusiastic about tech and learning new things. Take a peek at the projects I h
 
 <br/>
 
+## Activity On GitHub
+
 <p align="center">
-    <a href="https://github.com/SaifuddinGsohan">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="S. M. Sohan's streak" src="https://github-readme-streak-stats.herokuapp.com?user=SaifuddinGsohan&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=0000&background=060A0CD0"/>
-    </a>
+  <a href="https://github.com/SaifuddinGsohan">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SaifuddinGsohan&theme=react&hide_border=true&stroke=F8D866"/>
+</a> 
 </p>
 
-## Top Respositorys:
+## Top Respositorys
   <p align="left">
      <a href="https://github.com/SaifuddinGsohan/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaifuddinGsohan&repo=vprofile-project&theme=react&bg_color=0D1117&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/SaifuddinGsohan/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaifuddinGsohan&repo=typescript-express-mysql-boilerplate&theme=react&bg_color=0D1117&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
