@@ -13,14 +13,12 @@
 [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/saifuddin_sohan/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sm.sohan586@gmail.com?subject=From%20GitHub&cc=sm.sohan586@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
-Hi there 👋, I'm S. M. Sohan, a student of computer science in Daffodil International University. 👨‍🎓
-Enthusiastic about tech and learning new things. Take a peek at the projects I have done. I enjoy coding and contributing to open source projects, as well as answering questions in forums and helping people with code. 😊
+Successful Programmer with Exceptional Talents in Software Architect and Developing. Advanced Knowledge of Machine Learning and Deep Learning. Logical and Professional with Excellent Problem Solving Skilled with Python and JavaScript. Interested and Learning on BlockChain and Web3.
 
-- 🔭 I’m currently working on Full Stack Web Development,
-- 🌱 I’m currently learning Everything ,
-- 💬 Ask me about #Python #Django
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love singing!
+- 🔭 I’m currently working on React Native.
+- 🌱 I’m currently learning Software Architect, Machine Learning and Web3.
+- 💬 Ask me about #JavaScript #React_Native #React #Python #Deep_Learning
+- ⚡ Fun fact: I love Video Game!
 
 ## My-Stack 💻
 
