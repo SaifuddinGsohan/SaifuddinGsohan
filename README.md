@@ -89,37 +89,31 @@ Successful Programmer with Exceptional Talents in Software Architect and Develop
 <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C5263.svg?logo=jenkins&logoColor=white"></a>
 <a href="#"><img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-%23000000.svg?logo=apache-kafka&logoColor=white"></a>
 
-<div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaifuddinGsohan&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide_border=true&bg_color=0D1117" alt="SaifuddinGsohan" /></p>
-</div>
-
 ## 📊 My Github Stats
-
-  <br/>
+ <!--  <br/>
   <p align="center">
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=SaifuddinGsohan&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
   <a href="https://github.com/SaifuddinGsohan">      
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SaifuddinGsohan&theme=dark&hide_border=true&stroke=F8D866&bg_color=0D1117&color=F8D866"/>
 </a> 
   </p>
-  <!--   <a href="https://github.com/SaifuddinGsohan/"><img alt="S. M. Sohan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaifuddinGsohan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/SaifuddinGsohan/"><img alt="S. M. Sohan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaifuddinGsohan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <a href="https://github.com/misbahuddinmuib/github-readme-stats"><img alt="Misbah Uddin Muib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahuddinmuib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+  <a href="https://github.com/misbahuddinmuib/github-readme-stats"><img alt="Misbah Uddin Muib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahuddinmuib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> \
   <br/>
- <!--  <a href="https://github.com/SaifuddinGsohan"><img alt="S. M. Sohan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SaifuddinGsohan&bg_color=0D1117&color=F8D866&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-<br/>
+  <a href="https://github.com/SaifuddinGsohan"><img alt="S. M. Sohan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SaifuddinGsohan&bg_color=0D1117&color=F8D866&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> 
+<br/> -->
 
-  <p align="center" with="100%">
+<div align="center" width="100%">
     
-[![](https://raw.githubusercontent.com/SaifuddinGsohan/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/SaifuddinGsohan/github-profile-summary-cards-exampl)[![](https://raw.githubusercontent.com/SaifuddinGsohan/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/SaifuddinGsohan/github-profile-summary-cards-exampl)
-[![](https://raw.githubusercontent.com/SaifuddinGsohan/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/SaifuddinGsohan/github-profile-summary-cards-exampl) [![](https://raw.githubusercontent.com/SaifuddinGsohan/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/SaifuddinGsohan/github-profile-summary-cards-exampl) [![](https://raw.githubusercontent.com/SaifuddinGsohan/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/SaifuddinGsohan/github-profile-summary-cards-exampl)
+  [![](https://raw.githubusercontent.com/SaifuddinGsohan/profile-summary/master/profile-summary-card-output/transparent/0-profile-details.svg)](https://saifuddingsohan.github.io/me/)
+  [![](https://raw.githubusercontent.com/SaifuddinGsohan/profile-summary/master/profile-summary-card-output/transparent/3-stats.svg)](https://saifuddingsohan.github.io/me/) 
+  [![](https://raw.githubusercontent.com/SaifuddinGsohan/profile-summary/master/profile-summary-card-output/transparent/4-productive-time.svg)](https://saifuddingsohan.github.io/me/)
+  [![](https://raw.githubusercontent.com/SaifuddinGsohan/profile-summary/master/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://saifuddingsohan.github.io/me/) 
+  [![](https://raw.githubusercontent.com/SaifuddinGsohan/profile-summary/master/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://saifuddingsohan.github.io/me/) 
+ <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaifuddinGsohan&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide_border=true&bg_color=0D1117" alt="SaifuddinGsohan" /></p>  -->
 
-  </p>
-  
-## Activity On GitHub
-
-<p align="center">
-</p>
+</div>
 
 ## Top Respositorys
   <p align="left">
