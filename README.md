@@ -98,6 +98,9 @@ Successful Programmer with Exceptional Talents in Software Architect and Develop
   <br/>
   <p align="center">
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=SaifuddinGsohan&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+  <a href="https://github.com/SaifuddinGsohan">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SaifuddinGsohan&theme=dark&hide_border=true&stroke=F8D866&bg_color=0D1117&color=F8D866"/>
+</a> 
   </p>
   <!--   <a href="https://github.com/SaifuddinGsohan/"><img alt="S. M. Sohan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaifuddinGsohan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
@@ -106,12 +109,16 @@ Successful Programmer with Exceptional Talents in Software Architect and Develop
  <!--  <a href="https://github.com/SaifuddinGsohan"><img alt="S. M. Sohan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SaifuddinGsohan&bg_color=0D1117&color=F8D866&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 <br/>
 
+  <p align="center" with="100%">
+    
+[![](https://raw.githubusercontent.com/SaifuddinGsohan/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/SaifuddinGsohan/github-profile-summary-cards-exampl)[![](https://raw.githubusercontent.com/SaifuddinGsohan/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/SaifuddinGsohan/github-profile-summary-cards-exampl)
+[![](https://raw.githubusercontent.com/SaifuddinGsohan/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/SaifuddinGsohan/github-profile-summary-cards-exampl) [![](https://raw.githubusercontent.com/SaifuddinGsohan/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/SaifuddinGsohan/github-profile-summary-cards-exampl) [![](https://raw.githubusercontent.com/SaifuddinGsohan/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/SaifuddinGsohan/github-profile-summary-cards-exampl)
+
+  </p>
+  
 ## Activity On GitHub
 
 <p align="center">
-  <a href="https://github.com/SaifuddinGsohan">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SaifuddinGsohan&theme=dark&hide_border=true&stroke=F8D866&bg_color=0D1117&color=F8D866"/>
-</a> 
 </p>
 
 ## Top Respositorys
@@ -121,6 +128,4 @@ Successful Programmer with Exceptional Talents in Software Architect and Develop
    <a href="https://github.com/SaifuddinGsohan/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaifuddinGsohan&repo=improve-english-project&theme=dark&bg_color=0D1117&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
 
-[![](https://raw.githubusercontent.com/SaifuddinGsohan/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/SaifuddinGsohan/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/SaifuddinGsohan/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/SaifuddinGsohan/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/SaifuddinGsohan/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
