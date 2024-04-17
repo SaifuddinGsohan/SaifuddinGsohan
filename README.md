@@ -27,6 +27,8 @@ Successful Programmer with Exceptional Talents in Software Architect and Develop
 #### 🔥 Languages: 
 <a href="https://github.com/search?q=user%SaifuddinGsohan+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-CC342D.svg?style=flat-square&logo=ruby)
+![Rust](https://img.shields.io/badge/rust-000000.svg?style=flat-square&logo=rust)
 <a href="https://github.com/search?q=user%SaifuddinGsohan+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 <a href="https://github.com/search?q=user%SaifuddinGsohan+is%3Arepo+language%3Ago"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"></a>
 <a href="https://github.com/search?q=user%SaifuddinGsohan+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
@@ -36,6 +38,8 @@ Successful Programmer with Exceptional Talents in Software Architect and Develop
 #### ⚡ Frameworks, Libraries and Modules:  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Tauri](https://img.shields.io/badge/Tauri-%2320232a.svg?style=flat-square&logo=tauri&logoColor=24C8D8)
+![Expo](https://img.shields.io/badge/expo-%2320232a.svg?style=flat-square&logo=expo)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-%23E434AA.svg?logo=graphql&logoColor=white"></a>
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
@@ -87,7 +91,8 @@ Successful Programmer with Exceptional Talents in Software Architect and Develop
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23327FC7.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white"></a>
 <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C5263.svg?logo=jenkins&logoColor=white"></a>
-<a href="#"><img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-%23000000.svg?logo=apache-kafka&logoColor=white"></a>
+<a href="#"><img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-%23000000.svg?logo=apache-kafka"></a>
+<a href="#"><img alt="Socket.io" src="https://img.shields.io/badge/Socket%20io-010101.svg?logo=socketdotio"></a>
 
 ## 📊 My Github Stats
  <!--  <br/>
