@@ -5,7 +5,7 @@
 <a href="https://saifuddingsohan.github.io/me/"><img width="255" align="right" src="https://github.com/SaifuddinGsohan/S.-M.-Sohan/blob/main/gif/web4.gif"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SaifuddinGsohan&label=Profile%20views&color=0e75b6&style=flat" alt="SaifuddinGsohan" /> </p>
 
-# <a href="https://saifuddingsohan.github.io/me/"><p align='center'><img src="https://readme-typing-svg.herokuapp.com?color=fff53a&size=25&center=true&vCenter=true&width=433&height=75&lines=Assalam+O%27Alaikum;I%27m+S.+M.+SOHAN;Software+Developer;%40SaifuddinGsohan"></p></a>
+# <a href="https://saifuddingsohan.github.io/me/"><p align='center'><img src="https://readme-typing-svg.herokuapp.com?color=fff53a&size=25&center=true&vCenter=true&width=433&height=75&lines=Assalam+O%27Alaikum;I%27m+S.+M.+SOHAN;Software+Engineer;%40SaifuddinGsohan"></p></a>
 
 
 [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7)](https://twitter.com/SaifuddinTsohan)
