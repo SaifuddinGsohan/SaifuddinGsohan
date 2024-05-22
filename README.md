@@ -120,11 +120,15 @@ Successful Programmer with Exceptional Talents in Software Architect and Develop
 
 </div>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=SaifuddinGsohan&margin-w=15&theme=discord)
+
 ## Top Respositorys
   <p align="left">
      <a href="https://github.com/SaifuddinGsohan/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaifuddinGsohan&repo=vprofile-project&theme=dark&bg_color=0D1117&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/SaifuddinGsohan/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaifuddinGsohan&repo=typescript-express-mysql-boilerplate&theme=dark&bg_color=0D1117&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/SaifuddinGsohan/"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaifuddinGsohan&repo=improve-english-project&theme=dark&bg_color=0D1117&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
+
+
 
 
